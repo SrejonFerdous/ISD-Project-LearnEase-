@@ -22,8 +22,8 @@ if(isset($_POST['submit'])){
 		
 		echo"
         <script>
-          alert('Received successfully!!! Thank You!!!');
-          window.location.href='./index.php';
+        alert('Received successfully!!! Thank You!!!');
+        window.location.href='./index.php';
         </script>
         ";
 		
@@ -65,7 +65,7 @@ if(isset($_POST['submit'])){
 	<div class="col-md-4 stripe text-white text-center">
 	<h4>LearnEase.com</h4>
 	<p>Enroll now to Get</p>
- <h2>30% Discount</h2>
+    <h2>30% Discount</h2>
 	
 	</div>
 	
