@@ -106,7 +106,7 @@ if($flag!=''){
 	<div class="container mt-5">
 	<div class="row"> <!--create a row within the layout of a web page-->
 	<div class="col-sm-6 offset-sm-3 jumbotron">
-	<h3 class="mb-5">Welcome to StudyEase Payment</h3>
+	<h3 class="mb-5">Welcome to LearnEase Payment</h3>
 		<form method="post">
 		
 		<div class="form-group row">
